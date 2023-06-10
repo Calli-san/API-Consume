@@ -1,6 +1,6 @@
 ## Tugas API Kelompok 8
 
-pengembangan aplikasi berita flutter dengan API 
+pengembangan aplikasi berita flutter dengan API untuk memenuhi tugas praktek pemograman mobile
 
 ## Anggota Kelompok:
 1. Wafa Ghaida Aulia 2006124
