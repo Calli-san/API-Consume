@@ -1,10 +1,10 @@
 ## Tugas API Kelompok 8
 
-pengembangan aplikasi flutter dengan API
+pengembangan aplikasi berita flutter dengan API 
 
 ## Anggota Kelompok:
-1. Wafa
-2. Ridwan
-3. Fazar
-4. Raka
+1. Wafa Ghaida Aulia 2006124
+2. Ridwan Nur Faisal 2006056
+3. Fajar Mumtazdzidan 2006060
+4. Raka Septyan Putra 2006131
 
