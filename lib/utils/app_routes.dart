@@ -1,7 +1,7 @@
-import 'package:api_berita_app/models/post.dart';
-import 'package:api_berita_app/pages/add_post_page.dart';
-import 'package:api_berita_app/pages/home_page.dart';
-import 'package:api_berita_app/pages/post_page.dart';
+import 'package:api_consume/models/post.dart';
+import 'package:api_consume/pages/add_post_page.dart';
+import 'package:api_consume/pages/home_page.dart';
+import 'package:api_consume/pages/post_page.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
